@@ -9,6 +9,51 @@ Additionally, being able to save interesting locations to later revisit in AR wo
 
 The "Key selling point" of this application would be the unlimited 'unique locations' to learn in and the "community insights and analogies" where other users share the tricks they've used to help understand and remember odd topics. Users can even see the insights relevant to them based on the content they already consume tracked by cookies, IG, views, but this area would need more work. 
 
+
+User Work flow:
+
+    "Do you know what a memory palace is ? 
+        if yes: 
+          offer reminder
+          if no: 
+            move to next phase of flow...
+          
+        if no:
+          teach the power of memory palace for learning.
+            move to next phase of flow...
+          
+
+        "Create learing enviroment or Explore pre recorded based on topic"
+
+          If Create learning enviroment:
+             "Record a space or choose from pre recorded"
+             if "record a space":
+             Teach how they can record a space.
+                remind how to use a memory palace.
+                teach how they can add items to the space
+                teach how they can 
+             if "choose from pre recorded":
+             Show list of most popular
+      
+          If Explore learning Topics :
+
+            Show list of topics: 
+            if lanuguages:
+                Assign to destination matched to language they are trying to learn.
+            if maths:
+            if history:
+            if coding:
+            if x:
+            if y:
+            if z:
+            
+                Once selected:
+                Move to next phase of flow...
+                
+                    Once in the enviroment, offer useful insghts based on how other users might remeber the topics. 
+         
+    
+
 NO ADS IN THE LEARNING ENVIRONMENT EVER!
 WE WANT TO CREATE AN ENVIRONMENT FOR LEARNING, A PLACE THAT TRULY ADDS VALUE TO THE USERS.
 INCOME MUST COME FROM SOME OTHER SOURCES... MAYBE SUBSCRIPTIONS, FOR NOW, IT DOESN'T MATTER. 
